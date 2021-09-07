@@ -1,7 +1,7 @@
 # Surfs Up
 Code: ![Surfs Up Challenge Code](SurfsUp_Challenge.ipynb)
 ## Purpose
-I created a buisness plan on opening a Surf and Shake Shop in Hawaii. W. Avy, a possible investor, wants us to analyze the weather as the weather can be a big factor on whether a surf and shake shop will succeed or not before he invests. After our intial analysis of the weather, he would like us to compare the weather in June and December. 
+After a trip to Hawaii, I would like to open a Surf and Shake Shop there. I created a business plan and presented it to W. Avy, a possible investor. He likes the idea but is worried about the weather and how it could impact the shop. So, he wants us to analyze the weather as the weather before he invests. After our intial analysis of the weather, he would like us to compare the weather in June and December. 
 ## Results
 ![June's Summary Statistics](Images/Summary_Statistics_June.PNG)\
 ![December's Summary Statistics](Images/Summary_Statistics_Dec.PNG)
