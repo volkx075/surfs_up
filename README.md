@@ -5,7 +5,7 @@ After a trip to Hawaii, I would like to open a Surf and Shake Shop there. I crea
 ## Results
 ![June's Summary Statistics](Images/Summary_Statistics_June.PNG)\
 ![December's Summary Statistics](Images/Summary_Statistics_Dec.PNG)
-- The mean in June is only about 3.9 degrees more than the mean in December. However, this could be because of some outliers in December so let's take a look at something else.
+- The mean in June is only about 3.9 degrees more than the mean in December. However, this could be because of some outliers in December so let's take a look at more of the distribution.
 - The standard deviation in December is about .49 degrees more than the standard deviation in June. This means that the varation in temperature is not much more in December than it is in June from the mean for each.
 - Lastly, let's look at the quartiles and medians. The first quartile for June is 4 degrees more than December and so is the median. The third quartile is 3 degrees more in June than December. This shows that there is not a significant difference between the distributions of June and December.
 ## Summary
